@@ -1,7 +1,7 @@
- ### Name's 3wick
- ### Yo, wsg 🙂
- 😄 Student, He/Him 
- <br> Beginner CSS and Html programmer
+<h1> Name's 3wick </h1>
+<h1> Yo, wsg 🙂</h1>
+ <p> </p>😄 Student, He/Him 
+ <br> Beginner CSS and Html programmer </p>
  
 <img src="https://media.tenor.com/JGktFrJlB00AAAAM/cat-cheese-sandwich-grilled-eat.gif" alt="gat" width="20%">
 I don't know what else to add...
