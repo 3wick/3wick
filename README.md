@@ -1,10 +1,10 @@
- # Name's 3wick
+ ### Name's 3wick
  ### Yo, wsg 🙂
  😄 Student, He/Him 
  <br> Beginner CSS and Html programmer
  
 
-### I don't know what else to add...
+I don't know what else to add...
 <!--
 **eeeeeeeeea/eeeeeeeeea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
