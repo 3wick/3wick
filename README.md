@@ -1,6 +1,8 @@
  # Name's 3wick
  ### Yo, wsg 🙂
- 😄 Student, He/Him, Beginner
+ 😄 Student, He/Him 
+ Beginner CSS and Html programmer
+ 
 
 ### I don't know what else to add...
 <!--
