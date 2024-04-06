@@ -1,5 +1,5 @@
-### Yo, wsg 🙂
  # Name's 3wick
+ ### Yo, wsg 🙂
  😄 Student, He/Him, Beginner
 
 ### I don't know what else to add...
