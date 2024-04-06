@@ -3,7 +3,7 @@
  😄 Student, He/Him 
  <br> Beginner CSS and Html programmer
  
-
+<img src="https://media.tenor.com/JGktFrJlB00AAAAM/cat-cheese-sandwich-grilled-eat.gif" alt="gat" width="20%">
 I don't know what else to add...
 <!--
 **eeeeeeeeea/eeeeeeeeea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
