@@ -1,5 +1,5 @@
-<h1> Name's 3wick </h1>
-<h1> Yo, wsg 🙂</h1>
+<h3> Name's 3wick </h3>
+<h4> Yo, wsg 🙂</h4>
  <p> </p>😄 Student, He/Him 
  <br> Beginner CSS and Html programmer </p>
  
